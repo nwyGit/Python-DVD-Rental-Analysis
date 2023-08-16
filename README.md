@@ -1,6 +1,7 @@
 # DVD Rental Python Analysis Project
 
-![pexels-lukas-669619](https://github.com/nwyGit/Python-DVD-Rental-Analysis/assets/105307947/2ab01649-0027-4789-aa14-90c86a4a8ada)
+![pexels-poranimm-athithawatthee-851177](https://github.com/nwyGit/Python-DVD-Rental-Analysis/assets/105307947/e42b25fb-9bfe-4748-8fa4-39e1e6b3be07)
+
 This Python project involves analyzing data from the DVD Rental database using Pandas and visualizing the results with Matplotlib.
 
 ## Project Overview
@@ -41,7 +42,8 @@ This section will describe the analysis and visualizations performed on the DVD 
 3. Modify the code to customize analysis based on your needs.
 
 ## Dataset ER Model
-![dvd-rental-sample-database-diagram](https://github.com/nwyGit/DVD-database-project/assets/105307947/7371bfbe-c8ff-44f9-975a-b272da4148dd)
+![dvd-rental-sample-database-diagram](https://github.com/nwyGit/Python-DVD-Rental-Analysis/assets/105307947/259c9be4-a160-4288-aed4-546d3527fece)
+
 
 ## Contributing
 
